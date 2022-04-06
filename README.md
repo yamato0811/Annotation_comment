@@ -11,7 +11,7 @@ Todo Tree : https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo
   不足している機能や後から追加すべき機能である
 - XXX  
   危険！なぜ動くのか不明であるコードである
-- CANGED  
+- CHANGED  
   コードをどのように変更したかを残すメモ
 - NOTE  
   なぜ、こうなったのかを残すメモ
